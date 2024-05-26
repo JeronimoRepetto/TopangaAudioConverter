@@ -92,7 +92,7 @@ This project is a part of the TopangAIAssistant initiative. Special thanks to al
 
 ## Contact
 
-For any inquiries, please contact [jeronimorepetto@gmail.com].
+For any inquiries, please contact jeronimorepetto@gmail.com.
 
 ---
 
